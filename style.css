@@ -1,0 +1,7 @@
+.dl_loginarea{
+    display: flex;
+}
+.dl_loginarea_item{
+    flex: 1;
+    margin: 0 20px;
+}
